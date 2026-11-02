@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Nida &Ouml;cek - Computer Engineering Student, Future Medical Doctor and Future Cloud Security Architect" width="100%" />
+<img src="assets/header.svg" alt="Nida &Ouml;cek - Computer Engineering Student and Future Cloud Security Architect" width="100%" />
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
 ## About me
 
-I'm **Nida &Ouml;cek**, a Computer Engineering student with two big dreams:<br />
-to become a **medical doctor**, and a **Cloud Security Architect**<br />
+I'm **Nida &Ouml;cek**, a Computer Engineering student whose goal is<br />
+to become a **Cloud Security Architect**<br />
 who designs cloud systems that are secure from the very first line.
 
-I work hard for these goals and improve myself every day.
+I work hard for this goal and improve myself every day.
 
-<img src="assets/dreams.svg" alt="My two dreams: Medicine, and Cloud Security" width="100%" />
+<img src="assets/dreams.svg" alt="My goal: Cloud Security Architecture" width="100%" />
 
 <img src="assets/growth.svg" alt="Always learning, always growing: Learn, Practise, Build, Grow" width="100%" />
 
