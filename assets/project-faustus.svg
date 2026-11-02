@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="140" viewBox="0 0 700 140" role="img" aria-labelledby="t">
+  <title id="t">The Tragedy of Doctor Faustus, an animated class presentation</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a0a10"/><stop offset="1" stop-color="#5a1522"/></linearGradient>
+    <linearGradient id="gd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d77a"/><stop offset="1" stop-color="#b8892b"/></linearGradient>
+    <style>
+      .serif{font-family:Georgia,'Times New Roman',serif}
+      .sans{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+      .fl{transform-origin:70px 90px;animation:fl 2.2s ease-in-out infinite}
+      @keyframes fl{0%,100%{transform:scale(1,1)}50%{transform:scale(.94,1.08)}}
+    </style>
+  </defs>
+  <rect width="700" height="140" rx="20" fill="url(#bg)"/>
+  <rect x="7" y="7" width="686" height="126" rx="14" fill="none" stroke="url(#gd)" stroke-width="1.5"/>
+  <rect x="12" y="12" width="676" height="116" rx="10" fill="none" stroke="#d4af37" stroke-opacity="0.35" stroke-width="1"/>
+  <rect x="64" y="96" width="12" height="22" rx="2" fill="#f3d77a"/>
+  <g class="fl"><path d="M70 90 C60 78 66 70 70 58 C74 70 80 78 70 90 Z" fill="#ffb347"/><path d="M70 88 C65 82 68 78 70 72 C72 78 75 82 70 88 Z" fill="#fff0b3"/></g>
+  <text x="112" y="62" class="serif" font-size="29" font-style="italic" fill="url(#gd)">The Tragedy of Doctor Faustus</text>
+  <text x="112" y="90" class="sans" font-size="15" fill="#f1d9dc">An animated, single-file HTML class presentation</text>
+  <text x="112" y="114" class="sans" font-size="12.5" letter-spacing="2" fill="#d4af37">VIEW LIVE  &#8594;</text>
+</svg>
