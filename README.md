@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Nida &Ouml;cek - Computer Engineering Student and Future Cloud Security Architect" width="100%" />
+<img src="assets/header-v2.svg" alt="Nida &Ouml;cek - Computer Engineering Student and Future Cloud Security Architect" width="100%" />
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
@@ -12,7 +12,7 @@ who designs cloud systems that are secure from the very first line.
 
 I work hard for this goal and improve myself every day.
 
-<img src="assets/dreams.svg" alt="My goal: Cloud Security Architecture" width="100%" />
+<img src="assets/goal-v2.svg" alt="My goal: Cloud Security Architecture" width="100%" />
 
 <img src="assets/growth.svg" alt="Always learning, always growing: Learn, Practise, Build, Grow" width="100%" />
 
